@@ -1,5 +1,4 @@
-# Digit Recognition (Logistic Regression) 🧠✍️
-
+# Digit Recognition (Logistic Regression) 
 This project trains a Logistic Regression classifier to recognize handwritten digits (0–9) using scikit-learn’s built-in Digits dataset (8×8 grayscale images).
 
 ## What’s inside
